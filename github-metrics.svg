@@ -1000,7 +1000,7 @@
       <section>
         <div class="field error">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
-          API returned 500 (FAILED_DOCUMENT_REQUEST)
+          API returned 429
         </div>
       </section>
     </div>
@@ -2025,7 +2025,7 @@
                   
                   <div class="name">
                     <span>Rominos111/VISI401_SuperResolution_CNN</span>
-                    <span>starred 15 hours ago</span>
+                    <span>starred 16 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2072,7 +2072,7 @@
                   
                   <div class="name">
                     <span>kerautret/GTVimageVect</span>
-                    <span>starred 15 hours ago</span>
+                    <span>starred 16 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2114,7 +2114,7 @@
                   
                   <div class="name">
                     <span>IBM/MAX-Image-Resolution-Enhancer</span>
-                    <span>starred 15 hours ago</span>
+                    <span>starred 16 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2365,7 +2365,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Paris</span>
           
-          <span>Last updated Tue, 09 Feb 2021 00:42:12 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 09 Feb 2021 01:44:31 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
