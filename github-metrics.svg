@@ -2465,7 +2465,7 @@
                                             mattermost/focalboard
                                         </span>
                                         <span>
-                                            starred 4 days ago
+                                            starred 5 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -2725,7 +2725,7 @@
                         These metrics do not include all private contributions, timezone Europe/Paris
                     </span>
                     <span>
-                        Last updated Sat, 10 Apr 2021 10:22:22 GMT with lowlighter/metrics@3.6.0
+                        Last updated Sat, 10 Apr 2021 11:17:55 GMT with lowlighter/metrics@3.6.0
                     </span>
                 </footer>
                 <div id="metrics-end"></div>
