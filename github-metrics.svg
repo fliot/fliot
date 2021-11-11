@@ -2700,7 +2700,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ehrbase/ehrbase</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2741,7 +2741,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>curityio/example-python-openid-connect-client</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2779,7 +2779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HarryMWinters/fastapi-oidc</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2929,7 +2929,7 @@ Please, explain us.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Nov 2021, 18:23:33 (timezone Europe/Paris) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 11 Nov 2021, 19:21:28 (timezone Europe/Paris) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
