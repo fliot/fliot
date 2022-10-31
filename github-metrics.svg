@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hacl-star/hacl-star</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HACL*, a formally verified cryptographic library written in F*</div>
@@ -1741,7 +1741,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2022, 16:23:31 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 31 Oct 2022, 17:33:24 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
