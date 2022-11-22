@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PL4typus/virt_cacard</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual CAC using libcacard, virtualsmartcard's vpcd and softhsm2 to provide PCSC accessible virtual smart card.</div>
@@ -1686,7 +1686,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2022, 17:28:11 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 22 Nov 2022, 18:19:33 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
