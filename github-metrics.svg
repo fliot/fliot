@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PL4typus/virt_cacard</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 31 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual CAC using libcacard, virtualsmartcard's vpcd and softhsm2 to provide PCSC accessible virtual smart card.</div>
@@ -1803,7 +1803,7 @@ Update baggers.js (new player Francois Liot)</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2022, 17:26:57 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 30 Nov 2022, 18:17:27 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
