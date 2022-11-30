@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hacl-star/hacl-star</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 31 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">HACL*, a formally verified cryptographic library written in F*</div>
@@ -1803,7 +1803,7 @@ Update baggers.js (new player Francois Liot)</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2022, 10:18:33 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 30 Nov 2022, 11:20:22 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
