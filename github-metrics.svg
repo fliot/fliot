@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linagora/tmail-flutter</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol!</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>filiphanes/jmap-proxy-python</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JMAP proxy to IMAP in python async, WARNING: in development, but works with Dovecot IMAP</div>
@@ -1548,7 +1548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stalwartlabs/jmap-server</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stalwart JMAP server</div>
@@ -1729,7 +1729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2023, 21:18:13 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 13 Jan 2023, 22:14:51 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
