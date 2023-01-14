@@ -381,7 +381,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                         </svg>
-                        API error: 500
+                        API error: 429 ((consider using "plugin_pagespeed_token"))
                     </div>
                 </section>
             </div>
@@ -1447,7 +1447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linagora/tmail-flutter</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol!</div>
@@ -1500,7 +1500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>filiphanes/jmap-proxy-python</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JMAP proxy to IMAP in python async, WARNING: in development, but works with Dovecot IMAP</div>
@@ -1553,7 +1553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stalwartlabs/jmap-server</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stalwart JMAP server</div>
@@ -1734,7 +1734,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2023, 02:19:00 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 03:35:23 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
