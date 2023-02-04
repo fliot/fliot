@@ -1447,7 +1447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EdmundMartin/search_it</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asyncio package for scraping major Search Engines, supports pagination and other features.</div>
@@ -1500,7 +1500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cremuzzi/docker-SoftHSMv2</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SoftHSMv2 dockerization</div>
@@ -1553,7 +1553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damianofalcioni/Websocket-Smart-Card-Signer</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Websocket based (NO APPLET) Smart Card Digital Signature Framework</div>
@@ -1753,7 +1753,7 @@ Great thanks for your support.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2023, 21:16:53 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Feb 2023, 22:14:39 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
