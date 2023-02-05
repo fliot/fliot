@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EdmundMartin/search_it</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asyncio package for scraping major Search Engines, supports pagination and other features.</div>
@@ -1771,7 +1771,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Feb 2023, 13:29:58 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Feb 2023, 14:20:05 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
