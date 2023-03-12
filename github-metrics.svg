@@ -1508,7 +1508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oauth2-proxy/oauth2-proxy</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</div>
@@ -1817,7 +1817,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2023, 11:16:54 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 12:13:08 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
