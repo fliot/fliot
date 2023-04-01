@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oauth2-proxy/oauth2-proxy</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 02 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</div>
@@ -1678,7 +1678,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2023, 12:15:28 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Apr 2023, 13:12:06 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
