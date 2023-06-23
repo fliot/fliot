@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aphp/edsnlp</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EDS-NLP provides a set of spaCy components to extract information from clinical notes written in French.</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IHTSDO/snomed-database-loader</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Represent SNOMED CT in a different types of databases</div>
@@ -1892,7 +1892,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2023, 05:33:37 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jun 2023, 06:21:42 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
