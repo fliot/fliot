@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IHTSDO/snomed-database-loader</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Represent SNOMED CT in a different types of databases</div>
@@ -1902,7 +1902,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2023, 12:18:06 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 13:14:44 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
