@@ -1459,7 +1459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aphp/edsnlp</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EDS-NLP provides a set of spaCy components to extract information from clinical notes written in French.</div>
@@ -1724,7 +1724,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2023, 15:26:44 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jul 2023, 16:16:33 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
