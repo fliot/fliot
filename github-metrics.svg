@@ -1500,7 +1500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aphp/edsnlp</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 22 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">EDS-NLP provides a set of spaCy components to extract information from clinical notes written in French.</div>
@@ -1751,7 +1751,7 @@ In these cases, guessing the resource name and id formula, must be little bit ha
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2023, 15:16:44 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jul 2023, 16:12:34 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
