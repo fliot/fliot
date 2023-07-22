@@ -1553,7 +1553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IHTSDO/snomed-database-loader</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 22 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Represent SNOMED CT in a different types of databases</div>
@@ -1751,7 +1751,7 @@ In these cases, guessing the resource name and id formula, must be little bit ha
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2023, 12:14:48 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jul 2023, 13:12:24 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
