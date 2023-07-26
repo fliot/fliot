@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>highcanfly-club/easyappointments-k8s</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple image and helm chart for deploying Easyappointments on Kubenertes</div>
@@ -1773,7 +1773,7 @@ In these cases, guessing the resource name and id formula, must be little bit ha
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2023, 16:13:56 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 Jul 2023, 17:15:20 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
