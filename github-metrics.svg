@@ -1459,7 +1459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gouv-nc-data/pia-docker</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Killian Kemps (https://github.com/KillianKemps) has created an awesome Docker configuration to setup a Docker environment for production purpose. Thanks to Killian it is much easier now to run PIA. A simple docker-compose up does everything and gives a running website : front-end, back-end and database.</div>
@@ -1565,7 +1565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juitde/traefik-plugin-fail2ban</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Block or allow IPs depending on various conditions</div>
@@ -1764,7 +1764,7 @@ Cheers.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2024, 15:15:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2024, 16:16:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
