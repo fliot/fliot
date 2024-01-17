@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LINCnil/pia</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Version web front office de l’application PIA à déployer sur un serveur afin d’en donner l’accès via un navigateur web | Front office of the PIA application to be deployed on a server in order to access it through a web browser.</div>
@@ -1774,7 +1774,7 @@ Cheers.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jan 2024, 17:21:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2024, 18:14:30 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
