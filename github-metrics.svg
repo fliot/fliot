@@ -1606,7 +1606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juitde/traefik-plugin-fail2ban</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Block or allow IPs depending on various conditions</div>
@@ -1743,7 +1743,7 @@ Congrats.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jan 2024, 15:13:35 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2024, 16:14:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
