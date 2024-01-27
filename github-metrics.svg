@@ -1501,7 +1501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KitwareMedical/dicom-anonymizer</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool to anonymize DICOM files according to the DICOM standard</div>
@@ -1554,7 +1554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gouv-nc-data/pia-docker</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Killian Kemps (https://github.com/KillianKemps) has created an awesome Docker configuration to setup a Docker environment for production purpose. Thanks to Killian it is much easier now to run PIA. A simple docker-compose up does everything and gives a running website : front-end, back-end and database.</div>
@@ -1744,7 +1744,7 @@ Congrats.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2024, 11:14:56 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2024, 12:11:23 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
