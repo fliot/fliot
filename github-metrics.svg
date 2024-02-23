@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openregulatory/templates</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Templates for ISO 13485, IEC 62304, ISO 14971 and IEC 62366 compliance.</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zylklab/alfresco-sinadura</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protocol based digital signature for Alfresco 5</div>
@@ -1732,7 +1732,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2024, 17:18:40 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2024, 18:13:34 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
