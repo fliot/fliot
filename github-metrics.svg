@@ -1447,7 +1447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cattr-app/server-application</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public clone of https://git.amazingcat.net/cattr/core/app</div>
@@ -1600,7 +1600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blezek/nifi-dicom</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DICOM handling for NiFi</div>
@@ -1733,7 +1733,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Mar 2024, 10:13:16 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2024, 11:14:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
