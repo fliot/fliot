@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damoeb/feedless</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)</div>
@@ -1803,7 +1803,7 @@ Dockerfile</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Mar 2024, 23:13:38 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 00:16:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
