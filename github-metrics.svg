@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damoeb/feedless</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)</div>
@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>givanz/VvvebJs</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drag and drop website builder javascript library.</div>
@@ -1558,7 +1558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>activepieces/activepieces</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative</div>
@@ -1786,7 +1786,7 @@ Dockerfile</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2024, 22:12:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 23:15:15 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
