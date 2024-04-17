@@ -1628,7 +1628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damoeb/feedless</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)</div>
@@ -1773,7 +1773,7 @@ On a linux environment, this works out of the box : https://github.com/kholia/OS
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Apr 2024, 23:15:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2024, 00:14:16 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
