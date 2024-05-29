@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YXHXianYu/docker-ubuntu-vnc-desktop</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Docker image to provide web VNC interface, vscode, google-chrome, and tailscale!</div>
@@ -1710,7 +1710,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 May 2024, 08:22:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 09:15:44 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
