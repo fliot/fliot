@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firecamp-dev/firecamp</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Developer-first OpenSource API DevTool, Postman/Insomnia alternative.</div>
@@ -1558,7 +1558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/activemq-nms-amqp</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of Apache ActiveMQ NMS.AMQP Client</div>
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/azure-uamqp-python</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AMQP 1.0 client library for Python</div>
@@ -1716,7 +1716,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jun 2024, 17:18:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2024, 18:20:43 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
