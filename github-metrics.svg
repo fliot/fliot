@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ghostunnel/ghostunnel</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.</div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>randombit/botan</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cryptography Toolkit</div>
@@ -1725,7 +1725,7 @@ Thanks in advance.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2024, 00:17:28 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2024, 01:17:56 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
