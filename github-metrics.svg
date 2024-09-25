@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Coopydood/ultimate-macOS-KVM</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Sequoia support!</div>
@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qemus/qemu-docker</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">QEMU in a Docker container.</div>
@@ -1766,7 +1766,7 @@ Regards.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Sept 2024, 21:13:33 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 22:20:55 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
