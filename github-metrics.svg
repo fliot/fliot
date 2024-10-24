@@ -1633,7 +1633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qemus/qemu-docker</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 24 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">QEMU in a Docker container.</div>
@@ -1701,7 +1701,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Oct 2024, 23:18:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2024, 00:18:07 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
