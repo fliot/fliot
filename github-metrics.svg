@@ -1448,7 +1448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockur/macos</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OSX (macOS) inside a Docker container.</div>
@@ -1501,7 +1501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockur/windows</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows inside a Docker container.</div>
@@ -1757,7 +1757,7 @@ https://github.com/dockur/macos/pull/202</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2025, 18:17:13 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2025, 19:27:29 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
