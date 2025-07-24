@@ -1474,7 +1474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aphp/eds-pseudo</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EDS-Pseudo is a hybrid model for detecting personally identifying entities in clinical reports</div>
@@ -1701,7 +1701,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2025, 22:25:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2025, 23:23:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
